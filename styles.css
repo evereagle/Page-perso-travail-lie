@@ -1,0 +1,62 @@
+h1 {
+  color: rgb(10, 9, 7);
+text-align: center;
+  
+}
+
+h2 {
+  color: #777777;
+  margin-left: 69px;
+}
+
+.Image1{
+width: 201px;
+height: 171px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+.Linkdelin{
+width: 55px;
+height: 45px;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+
+}
+
+#exciting {
+  color: gr;
+  font-style: italic;  
+ }
+
+ul {
+  margin-left: 69px;
+}
+
+p{
+  text-indent: 1.5em;
+  margin-left: 69px;
+  margin-right: 69px;}
+
+p + p {
+  text-indent: 1.5em;
+  margin-top: 0 }
+
+
+
+
+h1 span {
+color:#0AC3A7;
+}
+
+h2 span {
+  color:red;
+  }
+.image{
+width: 150px;
+height: 130px;
+margin-left: auto;
+margin-right: auto;
+display: inline-block;
+}
